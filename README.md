@@ -4,7 +4,7 @@ Another Clicker Game
 Made with MicroStudio and microScript 2.0
 
 ---
--->[Run Game](https://microstudio.io/i/AJGecko/stoneclicker)
+-->[Run Game](https://microstudio.io/AJGecko/stoneclicker)
 ---
 You can go to [MicroStudio](microstudio.dev) and then import stoneclicker.zip to get the project.
 
