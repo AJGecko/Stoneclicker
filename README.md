@@ -7,5 +7,5 @@ Made with MicroStudio and microScript 2.0
 You can go to [MicroStudio](microstudio.dev) and then import stoneclicker.zip to get the project. 
 ---
 Currently planned:
-*Html5 Port
-*Windows exe
+Html5 Port, 
+Windows exe
